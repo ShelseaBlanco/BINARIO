@@ -1,0 +1,11 @@
+C:\Users\SHELSEA BLANCO\decimal_binario\bin\Debug\netcoreapp2.1\decimal_binario.deps.json
+C:\Users\SHELSEA BLANCO\decimal_binario\bin\Debug\netcoreapp2.1\decimal_binario.runtimeconfig.json
+C:\Users\SHELSEA BLANCO\decimal_binario\bin\Debug\netcoreapp2.1\decimal_binario.runtimeconfig.dev.json
+C:\Users\SHELSEA BLANCO\decimal_binario\bin\Debug\netcoreapp2.1\decimal_binario.dll
+C:\Users\SHELSEA BLANCO\decimal_binario\bin\Debug\netcoreapp2.1\decimal_binario.pdb
+C:\Users\SHELSEA BLANCO\decimal_binario\obj\Debug\netcoreapp2.1\decimal_binario.csprojAssemblyReference.cache
+C:\Users\SHELSEA BLANCO\decimal_binario\obj\Debug\netcoreapp2.1\decimal_binario.csproj.CoreCompileInputs.cache
+C:\Users\SHELSEA BLANCO\decimal_binario\obj\Debug\netcoreapp2.1\decimal_binario.AssemblyInfoInputs.cache
+C:\Users\SHELSEA BLANCO\decimal_binario\obj\Debug\netcoreapp2.1\decimal_binario.AssemblyInfo.cs
+C:\Users\SHELSEA BLANCO\decimal_binario\obj\Debug\netcoreapp2.1\decimal_binario.dll
+C:\Users\SHELSEA BLANCO\decimal_binario\obj\Debug\netcoreapp2.1\decimal_binario.pdb
